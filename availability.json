@@ -1,0 +1,13 @@
+{
+  "creator": "Kush",
+  "timezone": "America/Toronto",
+  "updated": "2026-11-07",
+  "open_dates": [
+    { "date": "2026-12-02", "day": "Wednesday", "slots": 1 },
+    { "date": "2026-12-03", "day": "Thursday", "slots": 1 },
+    { "date": "2026-12-09", "day": "Wednesday", "slots": 1 }
+  ],
+  "booked_dates": ["2026-12-04", "2026-12-07", "2026-12-08", "2026-12-10", "2026-12-11"],
+  "integration_rate_60s_usd": 2500,
+  "note": "One sponsored integration per day. Turnaround: 5 business days from approved script."
+}
